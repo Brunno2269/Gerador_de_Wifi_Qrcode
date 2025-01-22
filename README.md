@@ -8,4 +8,4 @@ Siga os passos abaixo para executar o projeto localmente:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/wifi-qrcode-generator.git
+   git clone https://github.com/Brunno2269/Gerador_de_Wifi_Qrcode.git
